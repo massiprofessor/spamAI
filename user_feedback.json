@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-02-19T20:20:34.173712",
+    "subject": "Accredito 1000 euro sulla tua PostePay",
+    "body": "Gentile Utente, congratulazioni. Le sono stati accreditati euro 1000 sulla sua carta PostePay. Per confermare l'accredito inserisca le credenziali del suo account.",
+    "label": "spam",
+    "ai_predicted": "spam",
+    "was_correct": true,
+    "conf_spam": 0.9966,
+    "conf_ham": 0.0034
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-02-19T20:25:51.091485",
+    "subject": "Consegnata al destinatario",
+    "body": "Gentile MARIO ROSSI, ti informiamo che la spedizione 958D92146617A è stata consegnata a - il giorno 18.02.2026 alle ore 16:11.",
+    "label": "ham",
+    "ai_predicted": "ham",
+    "was_correct": true,
+    "conf_spam": 0.0012,
+    "conf_ham": 0.9988
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-02-19T20:27:30.810825",
+    "subject": "Vuoi l’accesso anticipato VIP? Iscriviti alla lista",
+    "body": "Iscriviti alla lista prima che inizi la celebrazione. Diventa VIP. Grazie per essere parte di questo percorso!",
+    "label": "ham",
+    "ai_predicted": "spam",
+    "was_correct": false,
+    "conf_spam": 0.9777,
+    "conf_ham": 0.0223
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-02-19T20:31:23.566990",
+    "subject": "Il tuo Curriculum è paleozoico",
+    "body": "19/02/2026 20:29 • Ciao Claudio, Il tuo valore esiste. Ma rimane nascosto perché nessuno ti ha insegnato il linguaggio che i recruiter usano per selezionare i migliori talenti. Non è questione di esperienza: è questione di visibilità. Il problema non è la tua esperienza o i titoli, ma come ti racconti. Se stai usando il classico modello standard da \"centro per l'impiego\", stai parlando una lingua che le aziende moderne non capiscono più. Ecco cosa succede se non affronti questo problema: Il CV non supera i filtri ATS: sparisce prima ancora di raggiungere un recruiter Rimani invisibile ai tuoi potenziali datori di lavoro: nessuno scoprirà mai quanto vali Perdi opportunità mentre altri, meno qualificati, vengono selezionati: semplicemente perché sanno come comunicare le loro competenze La buona notizia? Questo è risolvibile. Nel prossimo webinar gratuito, ti mostrerò come trasformare un CV invisibile in un CV che attrae le opportunità. Nel prossimo webinar gratuito \"Il mercato del lavoro tra AI e ATS\", ti mostrerò come trasformare un foglio di carta obsoleto in un magnete per recruiter.  Link per l'iscrizione al Webinar >> Ci vediamo lì, Il Team di Click Academy",
+    "label": "spam",
+    "ai_predicted": "spam",
+    "was_correct": true,
+    "conf_spam": 0.732,
+    "conf_ham": 0.268
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-02-19T20:33:03.266424",
+    "subject": "INVIO PREVENTIVI PER PULIZIA SCALE - CONDOMINIO MARTINA",
+    "body": "Buonasera a tutti, in allegato i preventivi per la pulizia scale presso il Vs condominio, come da richiesta nella scorsa assemblea. Si chiede un cortese riscontro per accettazione o meno, entro il 27/02/2026. Dovreste anche indicarmi, per cortesia, quale delle due ditte, nel caso, avete intenzione di accettare. Ci atterremo alla scelta della maggioranza.",
+    "label": "ham",
+    "ai_predicted": "ham",
+    "was_correct": true,
+    "conf_spam": 0.0058,
+    "conf_ham": 0.9942
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-03-05T09:41:39.227783",
+    "subject": "Hai vinto un viaggio a Dubai",
+    "body": "Buongiorno signor Mezzina, grazie al suo acquisto è stato scelto per una vacanza premio completamente gratuita nella località di Dubai. Per confermare il suo premio clicca sul seguente link inserendo le credenziali del suo account di posta. Distinti saluti e a presto. Buon viaggio",
+    "label": "spam",
+    "ai_predicted": "spam",
+    "was_correct": true,
+    "conf_spam": 0.9842,
+    "conf_ham": 0.0158
+  }
+]
